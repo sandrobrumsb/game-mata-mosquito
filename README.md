@@ -1,0 +1,3 @@
+- Jogo desenvolvido em curso.
+- usando html,css e javascript.
+- com foco em logica, usando javascript.
