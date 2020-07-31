@@ -1,4 +1,4 @@
-# Projeto javaScript
+# Projeto JavaScript
 
 ## Game Mata Mosquito
 
